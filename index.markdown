@@ -4,3 +4,7 @@
 
 layout: home
 ---
+
+### Welcome to The OptimizedBets Homepage
+
+This site is dedicated to the robust development of a sports betting strategy written in a way that would allow me to explain the concepts to my friends and family who don't have a technical background.
