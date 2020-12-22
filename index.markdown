@@ -3,6 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
+title: Optimized Bets
 ---
 
 ### Welcome to The OptimizedBets Homepage
