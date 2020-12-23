@@ -27,8 +27,7 @@ twitter_username: OptimizedBets
 github_username: OptimizedBets 
 
 # Build settings
-#theme: minima
-remote_theme: poole/poole
+theme: minima
 plugins:
   - jekyll-feed
 
